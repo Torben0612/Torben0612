@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Torben</h1>
-<h3 align="center">A passionate In IT</h3>
+<h3 align="center">I'm passionate In IT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=torben0612&label=Profile%20views&color=0e75b6&style=flat" alt="torben0612" /> </p>
 
