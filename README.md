@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Finishing School**
 
-- 🌱 I’m currently learning **Robotics, HTML5, Flask**
+- 🌱 I’m currently learning **Robotics, HTML5, Flask, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
